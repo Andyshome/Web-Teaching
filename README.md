@@ -74,7 +74,7 @@ The database materials (lectures/assignments) are not included here! You can fin
 - [Course topics](#course-topics)
 - [Web technology tutorials](#web-technology-tutorials)
 - [Sample exams](#sample-exams)
-- [Assignments & assessment](#assignments--assessment)
+- [Assignments &amp; assessment](#assignments-amp-assessment)
 - [Demo application](#demo-application)
 - [Interactive web technology exercises](#interactive-web-technology-exercises)
 - [Twitter accounts to follow](#twitter-accounts-to-follow)
@@ -85,10 +85,10 @@ The database materials (lectures/assignments) are not included here! You can fin
   - [Lecture 10](#lecture-10)
   - [Lecture 11](#lecture-11)
   - [Lecture 12](#lecture-12)
-  - [🚧 Lecture 13](#%F0%9F%9A%A7-lecture-13)
-  - [🚧 Lecture 14](#%F0%9F%9A%A7-lecture-14)
-  - [🚧 Lecture 15](#%F0%9F%9A%A7-lecture-15)
-  - [🚧 Lecture 16](#%F0%9F%9A%A7-lecture-16)
+  - [Lecture 13](#lecture-13)
+  - [Lecture 14](#lecture-14)
+  - [🚧 Lecture 15](#%f0%9f%9a%a7-lecture-15)
+  - [🚧 Lecture 16](#%f0%9f%9a%a7-lecture-16)
 
 ## Course instructors
 
@@ -363,7 +363,7 @@ This lecture covers Node.js ([lecture slides](slides/2019_20/node.pdf), [transcr
 - Relevant scientific publications:
   - Chaniotis, I.K., Kyriakou, K.I.D. and Tselikas, N.D., 2015. [Is Node.js a viable option for building modern web applications? A performance evaluation study.](https://link.springer.com/article/10.1007/s00607-014-0394-9) Computing, 97(10), pp.1023-1044.
   
-### 🚧 Lecture 13
+### Lecture 13
 
 This lecture covers CSS ([lecture slides](slides/2019_20/css.pdf), [transcript](Lecture-css.md)).
   
@@ -381,9 +381,9 @@ This lecture covers CSS ([lecture slides](slides/2019_20/css.pdf), [transcript](
 - Relevant scientific publications:
   - Meyerovich, L.A. and Bodik, R., 2010, April. [Fast and parallel webpage layout](https://dl.acm.org/citation.cfm?id=1772763) In Proceedings of the 19th international conference on World wide web (pp. 711-720). ACM.
 
-### 🚧 Lecture 14
+### Lecture 14
 
-This lecture covers advanced Node.js concepts ([transcript](Lecture-node2.md)).
+This lecture covers advanced Node.js concepts ([lecture slides](slides/2019_20/node2.pdf), [transcript](Lecture-node2.md)).
 
 - Required readings: *none*
 - Recommended activities:
